@@ -1,0 +1,531 @@
+
+
+
+
+@media(max-width:1375px){
+.main__comment-items{
+flex-direction: column;
+}
+
+.main__bonus-items{
+justify-content: space-around;
+}
+
+.main__dop-con{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.main__dop-left{
+margin-bottom: 2rem;
+}
+
+.main__sklad-center{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.main__comment-item:nth-child(1){
+align-self: flex-end;
+}
+
+.main__comment-item:nth-child(3){
+align-self: flex-end;
+}
+
+.main__dollar-bottom{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.sklad_center-left{
+margin-bottom: 2rem;
+}
+
+.main__dollar-item:nth-child(3){
+margin-top: 3rem;
+}
+
+.main__form-2 form{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.form-5{
+margin-top: 2rem;
+}
+
+.form-4 input{
+width: 100%;
+}
+
+.mian__pay-top ul{
+overflow: auto;
+}
+
+.main__pay-bootom-2 ul{
+flex-wrap: wrap;
+}
+}
+
+
+
+
+@media(max-width:1275px){
+
+ .main__russion-con{
+flex-wrap: wrap;
+justify-content: center;
+ }   
+
+ .main__russion-left{
+    margin-right: 0;
+margin-bottom: 3rem;
+ }
+}
+
+
+@media(max-width:1200px){
+.header__nav-con{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.main__item-card:last-child{
+margin-top: 3rem;
+}
+
+.main__item-items{
+flex-wrap: wrap;
+}
+
+.hader__nav-login{
+margin-top: 2rem;
+}
+
+.main__britan-items{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+}
+
+
+@media(max-width:1080px){
+.main__form-2-1:nth-child(4){
+margin-top: 2rem !important;
+}
+}
+
+@media(max-width:992px){
+.main__pa-center-right{
+display: none;
+}
+
+.main__pay-euro{
+display: none;
+}
+
+.main__pay-center-center img{
+width: 100%;
+}
+
+.main__test_con{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.line__pay{
+display: none;
+}
+
+.main__form-3-1{
+    overflow: auto;
+    }
+
+
+.main__pay-bootom-2 li:last-child{
+margin-top: 2rem;
+}
+}
+
+
+
+@media(max-width:922px){
+.main__dollar-item:first-child{
+margin-bottom: 2rem;
+}
+
+.mag__items{
+justify-content: space-around;
+}
+
+.main__label-con{
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.main__label-left img{
+width: 100%;
+}
+}
+
+
+
+@media(max-width:886px){
+.header__nav-con img{
+margin-bottom: 2rem;
+}
+
+.main__done-con{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.done_left img{
+width: 100%;
+}
+
+.main__done-right{
+margin-top: 2rem;
+}
+}
+
+.main__item-card:nth-child(3){
+margin-top: 2rem;
+}
+
+
+
+@media(max-width:772px){
+.main__sklad-con{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.main__strax{
+display: none;
+}
+
+.main__sklad-left{
+margin-right: 0;
+margin-bottom: 2rem;
+}
+
+.main__just-item{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.main__dop{
+padding-top: 50px;
+}
+
+
+.footer-con{
+flex-wrap: wrap;
+}
+
+
+.main__russion-left h1{
+font-size: 60px;
+}
+
+.form-3{
+margin-top: 2rem;
+}
+
+
+
+.main__russion-left p{
+font-size: 17px;
+}
+
+.main__sklad-left img{
+width: 100%;
+}
+}
+
+
+
+@media(max-width:630px){
+.main__test-right{
+margin-left: 0;
+}
+.header__nav-con ul{
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.oper__p-2 {
+
+    font-size: 11px;
+    line-height: 17px;
+
+}
+
+.oper__p {
+    font-size: 8px;
+    line-height: 16px;
+}
+
+
+.oper__item h2 {
+    font-size: 14px;
+  
+}
+
+.sklad_bottom-p-1 {
+
+    font-size: 10px;
+   
+}
+
+.sklad__bottom-item h2 {
+
+    font-size: 14px;
+
+}
+
+.sales__item-1{
+flex-wrap: wrap;
+justify-content: center;
+margin-bottom: 2rem;
+}
+
+.sales__item-left{
+margin-bottom: 1rem;
+}
+
+.main__yes-con{
+flex-wrap: wrap;
+}
+
+.main__russion-right img{
+width: 100%;
+}
+
+.main__test-left img{
+width: 100%;
+}
+
+.main__email-right{
+margin-top: 2rem;
+}
+
+
+.main__email-con{
+flex-wrap: wrap;
+}
+}
+
+
+
+@media(max-width:590px){
+.form-2{
+margin-top: 2rem;
+}
+
+
+.main__item-card:nth-child(2){
+margin-top: 2rem;
+}
+}
+
+@media(max-width:530px){
+.main__comment-item{
+flex-wrap: wrap;
+justify-content: center;
+}
+}
+
+
+@media(max-width:500px){
+
+    .main__russion-left h1 {
+        font-size: 39px;
+        line-height: 47px;
+    }   
+
+    .main__russion-left p {
+        font-size: 13px;
+        line-height: 30px;
+    }   
+}
+
+
+@media(max-width:480px){
+.main__pay-bottom{
+display: none;
+}
+
+.sales__item-left img{
+width: 100%;
+}
+
+.main__sales-top h2 {
+   
+    font-size: 34px;
+    line-height: 45px;
+    
+}
+
+.main_label-fle p{
+margin-left: 0;
+margin-top: 2rem;
+}
+
+.main_label-fle{
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+
+
+.main__label-right h2 {
+    font-size: 21px;
+    line-height: 25px;
+}
+
+.main__pay-bootom-2{
+margin-top: 100px;
+}
+
+.main__just-top h2 {
+    font-size: 35px;
+}
+
+.yes__left h2 {
+    font-size: 39px;
+}
+
+.main__pay-bootom-2 li:nth-child(2){
+margin: 2rem 0;
+}
+
+.main__p h2 {
+    font-size: 30px;
+}
+
+.main__dollar-top h2 {
+    font-size: 31px;
+    line-height: 45px;
+  
+}
+
+
+.main__sklad-right h2 {
+    font-weight: 800;
+    font-size: 27px;
+}
+
+
+.main__britan h2 {
+    font-size: 30px;
+}
+
+.main__form-1 h2 {
+    font-size: 24px;
+   
+}
+
+}
+
+
+@media(max-width:480px){
+    .footer-2{
+    margin: 2rem 0;
+    }
+
+    .blog__item img{
+    width: 100%;
+    }
+
+    .main__dop h3 {
+        font-size: 37px;
+    }
+
+    .sklad_center-item h2 {
+       
+        font-size: 14px;
+      
+    }
+
+    .sklad_bottom-p-1 {
+        font-size: 7px;
+    }
+
+    .sklad__bottom-item h2 {
+        font-size: 11px;
+    }
+
+
+    .just__item-left img{
+    width: 100%;
+    margin-bottom: 2rem;
+    }
+
+    .footer-3{
+    margin-bottom: 2rem;
+    }
+
+    .just__item-rigth-top h3 {
+    
+        font-size: 16px;
+        line-height: 25px;
+      
+    }
+
+    .main__how-left h2 {
+        
+        font-size: 26px;
+    }
+
+    
+}
+
+@media (max-width: 380px){
+
+.main__dop h3 {
+    font-size: 33px;
+}
+
+.main__uk-h2 {
+
+    font-size: 35px;
+}
+
+.main__uk-h2 {
+    font-size: 29px;
+}
+
+.main__done-right h2 {
+
+    font-size: 38px;
+}
+
+.main__bonus-top h2 {
+
+    font-size: 36px;
+}
+
+}
+
+@media(max-width:320px){
+    .main__russion-left h1 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .main__russion-left p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    
+}
+
+
+
+
+
+
